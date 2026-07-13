@@ -1,0 +1,87 @@
+[
+  {
+    "_id": "landlord1",
+    "username": "John Landlord",
+    "email": "landlord@househunt.com",
+    "passwordHash": "$2a$10$Wd90Z6r4x0R9mHj/K56l6e9y7z/GvRkR.87y6w8kKz81234567890",
+    "role": "landlord",
+    "savedProperties": [],
+    "createdAt": "2026-07-05T09:41:21.951Z"
+  },
+  {
+    "_id": "renter1",
+    "username": "Sarah Renter",
+    "email": "sarah@househunt.com",
+    "passwordHash": "$2a$10$Wd90Z6r4x0R9mHj/K56l6e9y7z/GvRkR.87y6w8kKz81234567890",
+    "role": "renter",
+    "savedProperties": [],
+    "createdAt": "2026-07-05T09:41:21.951Z"
+  },
+  {
+    "_id": "user_1783244482026",
+    "username": "Tester-1783244481967",
+    "email": "tester-1783244481967@test.com",
+    "role": "renter",
+    "savedProperties": [],
+    "createdAt": "2026-07-05T09:41:22.026Z",
+    "passwordHash": "$2a$10$MxKpQfe2vPYknHqeVUuPJeHIKfWWFku.LuuaJ05FQpm35PpWJ6JSS"
+  },
+  {
+    "_id": "user_1783607968314",
+    "username": "Jyothika",
+    "email": "chimatajyothika@gmail.com",
+    "role": "renter",
+    "savedProperties": [],
+    "createdAt": "2026-07-09T14:39:28.314Z",
+    "passwordHash": "$2a$10$0u0D1Ci94g3TKe03s9zTjeDXcJzxaLqUiH18LX17up0XW9.JLgjgK"
+  },
+  {
+    "_id": "user_1783608284881",
+    "username": "Jyothikach",
+    "email": "chimatajyothika3@gmail.com",
+    "role": "renter",
+    "savedProperties": [],
+    "createdAt": "2026-07-09T14:44:44.881Z",
+    "passwordHash": "$2a$10$SfyFpjSHeq9MQE1wmFsRmO7f630Is218lVl.wOP4iFC69K8s95M3y"
+  },
+  {
+    "_id": "user_1783610015048",
+    "username": "Jyothika Chimata",
+    "email": "chimatajyothika123@gmail.com",
+    "role": "renter",
+    "savedProperties": [],
+    "createdAt": "2026-07-09T15:13:35.048Z",
+    "passwordHash": "$2a$10$fBHvyumgLPqutDb6D/QeQ.uUaYtpa5n2Z2J0dJkZnJ8dKW44L6b2y"
+  },
+  {
+    "_id": "user_1783610301452",
+    "username": "jyo",
+    "email": "chimat@gmail.com",
+    "role": "renter",
+    "savedProperties": [],
+    "createdAt": "2026-07-09T15:18:21.452Z",
+    "passwordHash": "$2a$10$X1cjiYmELYHCMziC.vKd7e7E9KMcyBGyc4Ypnh93rZkbWYD7AjPpK"
+  },
+  {
+    "_id": "user_1783610540843",
+    "username": "Prasanna",
+    "email": "prasanna@gmail.com",
+    "role": "renter",
+    "savedProperties": [
+      "prop4",
+      "prop2",
+      "prop1"
+    ],
+    "createdAt": "2026-07-09T15:22:20.843Z",
+    "passwordHash": "$2a$10$PzJwUvuTPXcCPf8HScBNTO8DEQQ3Zoiw/aw87IxJ9BGfcvsfHv3vS"
+  },
+  {
+    "_id": "user_1783691154506",
+    "username": "prasanna",
+    "email": "prasanna123@gmail.com",
+    "role": "landlord",
+    "savedProperties": [],
+    "createdAt": "2026-07-10T13:45:54.506Z",
+    "passwordHash": "$2a$10$iew5ljAI7Y4.70qXKz221.avFctGX3DescNbekYq5SgfJNtlKZjy2"
+  }
+]

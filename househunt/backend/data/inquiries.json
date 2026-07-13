@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "inquiry_1783614704175",
+    "property": "prop2",
+    "sender": "user_1783610540843",
+    "landlord": {
+      "_id": "landlord1",
+      "username": "John Landlord",
+      "email": "landlord@househunt.com"
+    },
+    "name": "Prasanna",
+    "email": "prasanna@gmail.com",
+    "phone": "",
+    "message": "Hello, I am interested in this rental and would like to schedule a viewing.",
+    "createdAt": "2026-07-09T16:31:44.175Z"
+  },
+  {
+    "_id": "inquiry_1783615580062",
+    "property": "prop7",
+    "sender": "user_1783610540843",
+    "landlord": {
+      "_id": "landlord1",
+      "username": "John Landlord",
+      "email": "landlord@househunt.com"
+    },
+    "name": "Prasanna",
+    "email": "prasanna@gmail.com",
+    "phone": "",
+    "message": "Hello, I am interested in this rental and would like to schedule a viewing. I want to take this house",
+    "createdAt": "2026-07-09T16:46:20.062Z"
+  },
+  {
+    "_id": "inquiry_1783618278916",
+    "property": "prop5",
+    "sender": "user_1783610540843",
+    "landlord": {
+      "_id": "landlord1",
+      "username": "John Landlord",
+      "email": "landlord@househunt.com"
+    },
+    "name": "Prasanna",
+    "email": "prasanna@gmail.com",
+    "phone": "",
+    "message": "Hello, I am interested in this rental and would like to schedule a viewing.",
+    "createdAt": "2026-07-09T17:31:18.916Z"
+  },
+  {
+    "_id": "inquiry_1783690149145",
+    "property": "prop2",
+    "sender": "user_1783610540843",
+    "landlord": {
+      "_id": "landlord1",
+      "username": "John Landlord",
+      "email": "landlord@househunt.com"
+    },
+    "name": "Prasanna",
+    "email": "prasanna@gmail.com",
+    "phone": "",
+    "message": "Hello, I am interested in this rental and would like to schedule a viewing.",
+    "createdAt": "2026-07-10T13:29:09.145Z"
+  },
+  {
+    "_id": "inquiry_1783690192847",
+    "property": "prop2",
+    "sender": "user_1783610540843",
+    "landlord": {
+      "_id": "landlord1",
+      "username": "John Landlord",
+      "email": "landlord@househunt.com"
+    },
+    "name": "Prasanna",
+    "email": "prasanna@gmail.com",
+    "phone": "",
+    "message": "Hello, I am interested in this rental and would like to schedule a viewing.",
+    "createdAt": "2026-07-10T13:29:52.847Z"
+  },
+  {
+    "_id": "inquiry_1783690219829",
+    "property": "prop2",
+    "sender": "user_1783610540843",
+    "landlord": {
+      "_id": "landlord1",
+      "username": "John Landlord",
+      "email": "landlord@househunt.com"
+    },
+    "name": "Prasanna",
+    "email": "prasanna@gmail.com",
+    "phone": "",
+    "message": "Hello, I am interested in this rental and would like to schedule a viewing.",
+    "createdAt": "2026-07-10T13:30:19.829Z"
+  },
+  {
+    "_id": "inquiry_1783690786961",
+    "property": "prop7",
+    "sender": "user_1783610540843",
+    "landlord": {
+      "_id": "landlord1",
+      "username": "John Landlord",
+      "email": "landlord@househunt.com"
+    },
+    "name": "Prasanna",
+    "email": "prasanna@gmail.com",
+    "phone": "",
+    "message": "Hello, I am interested in this rental and would like to schedule a viewing.",
+    "createdAt": "2026-07-10T13:39:46.961Z"
+  },
+  {
+    "_id": "inquiry_1783690830258",
+    "property": "prop2",
+    "sender": "user_1783610540843",
+    "landlord": {
+      "_id": "landlord1",
+      "username": "John Landlord",
+      "email": "landlord@househunt.com"
+    },
+    "name": "Prasanna",
+    "email": "prasanna@gmail.com",
+    "phone": "",
+    "message": "Hello, I am interested in this rental and would like to schedule a viewing.",
+    "createdAt": "2026-07-10T13:40:30.258Z"
+  },
+  {
+    "_id": "inquiry_1783691033188",
+    "property": "prop4",
+    "sender": "user_1783610540843",
+    "landlord": {
+      "_id": "landlord1",
+      "username": "John Landlord",
+      "email": "landlord@househunt.com"
+    },
+    "name": "Prasanna",
+    "email": "prasanna@gmail.com",
+    "phone": "",
+    "message": "Hello, I am interested in this rental and would like to schedule a viewing.",
+    "createdAt": "2026-07-10T13:43:53.188Z"
+  },
+  {
+    "_id": "inquiry_1783691528576",
+    "property": "prop1",
+    "sender": "user_1783610540843",
+    "landlord": {
+      "_id": "landlord1",
+      "username": "John Landlord",
+      "email": "landlord@househunt.com"
+    },
+    "name": "Prasanna",
+    "email": "prasanna@gmail.com",
+    "phone": "",
+    "message": "Hello, I am interested in this rental and would like to schedule a viewing.",
+    "createdAt": "2026-07-10T13:52:08.576Z"
+  }
+]
